@@ -1,0 +1,2 @@
+# javaFXChat
+Чат на JavaFX
